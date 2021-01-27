@@ -1,0 +1,5 @@
+Admin Access
+http://localhost/rms/admin]
+
+Username: admin
+Password: 1234
